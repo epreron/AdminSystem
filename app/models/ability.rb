@@ -21,4 +21,3 @@ if user
     end
   end
 end
-view raw

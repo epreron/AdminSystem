@@ -6,7 +6,7 @@ ruby '2.6.0'
 gem 'rails_admin'
 gem 'rails_admin_rollincode'
 gem 'devise'
-gem 'cancancan'
+gem 'cancancan', '~> 1.15.0'
 gem 'carrierwave'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
